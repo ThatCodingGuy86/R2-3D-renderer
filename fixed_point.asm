@@ -7,6 +7,12 @@
 ; The size of the type is 2 words (32 bits on the R2)
 ; 
 
+
+
+%macro int_to_f
+
+%endmacro
+
 %macro f_add
 
 %endmacro
